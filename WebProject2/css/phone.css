@@ -1,0 +1,73 @@
+body{
+    /* background-color: red; */
+}
+
+
+
+/* navigation section */
+#navbar{
+    flex-direction: column;
+    height: 130px;
+}
+
+
+
+/* Home section */
+#Home{
+    height: 352px;
+    padding: 3px 28px;
+  
+
+
+}
+#Home::before{
+    height: 480px;
+}
+#Home p{
+    font-size: 13px;
+}
+.h-primary{
+    font-size: 25px;
+
+
+}
+    
+
+
+
+
+/* services section */
+#services{
+    flex-direction: column;
+
+
+}
+#services.box{
+
+
+}
+
+
+
+
+/* client section */
+#clients{
+    flex-wrap: wrap;
+}
+#clients img{
+    /* width: 66px; */
+    height: 46px;
+}
+
+
+
+
+
+
+/* conatct section */
+
+
+
+
+
+/* footer */
